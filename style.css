@@ -1,0 +1,9 @@
+#poke-list{
+    border: solid 1px red;
+    width: 500px;
+    height: 600px;
+}
+
+.pokemon-name{
+    font-size: 18px;
+}
